@@ -1,0 +1,2 @@
+# Miljoenenjacht
+Javascript challenge
